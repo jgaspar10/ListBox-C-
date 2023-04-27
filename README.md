@@ -2,10 +2,10 @@
 ## This a simple List Box App is a Windows application that demonstrates how to use the ListBox control in C#, .NET, WinForms. The ListBox control provides a user interface to display a list of items, from which users can select one or more items.
 
 # Features
-- Populate the ListBox with items from a data source (in this demo, a hardcoded list of cars)
+- Populate the ListBox with items
 - Display multiple columns in the ListBox
 - Allow users to select one or more items in the ListBox
-- Able to Count and display how many numbers there are on the list
+- Able to count and display how many numbers there are on the list
 - Delete items individualy or all at once
 
 # How to use
