@@ -1,0 +1,12 @@
+D:\ListBox-C# WinF\ListBoxApp\bin\Debug\ListBoxApp.exe.config
+D:\ListBox-C# WinF\ListBoxApp\bin\Debug\ListBoxApp.exe
+D:\ListBox-C# WinF\ListBoxApp\bin\Debug\ListBoxApp.pdb
+D:\ListBox-C# WinF\ListBoxApp\bin\Debug\Guna.UI2.dll
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.csproj.AssemblyReference.cache
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.ListBoxAppUI.resources
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.Properties.Resources.resources
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.csproj.GenerateResource.cache
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.csproj.CoreCompileInputs.cache
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.csproj.CopyComplete
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.exe
+D:\ListBox-C# WinF\ListBoxApp\obj\Debug\ListBoxApp.pdb
